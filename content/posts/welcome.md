@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2024-06-06T10:21:48+04:00
-title = "Test"
-description = "test"
+title = "05-06-2024"
+description = "Journal de stage"
 slug = "test" 
 authors = []
 tags = []
@@ -11,4 +11,20 @@ externalLink = ""
 series = []
 +++
 
-Welcome
+**Travaillé sur le site alixir :**
+
+
+Bug de disposition de la page rendez-vous
+
+*Problème :* Trouvé la source exacte du problème
+
+Résolution simple (passé le pudding left et right à-25 dans la classe problématique)
+
+**Bot roll**
+
+mis en place dans le serveur
+Et sur un repo de *alixir*
+
+Contrôle visuel de resize layout
+ 
+Contrôle OK sauf soucie de conflit à cause de modification dans le main.
