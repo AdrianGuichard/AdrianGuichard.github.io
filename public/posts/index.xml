@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AdrianGuichard</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:40483/posts/</link>
     <description>Recent content in Posts on AdrianGuichard</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Jun 2024 10:21:48 +0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:40483/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>05-06-2024</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:40483/posts/journal-de-stage-1/</link>
       <pubDate>Thu, 06 Jun 2024 10:21:48 +0400</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>Travaillé sur le site alixir :&#xA;Bug de disposition de la page rendez-vous&#xA;Problème : Trouvé la source exacte du problème&#xA;Résolution simple (passé le pudding left et right à-25 dans la classe problématique)&#xA;Bot roll&#xA;mis en place dans le serveur Et sur un repo de alixir&#xA;Contrôle visuel de resize layout&#xA;Contrôle OK sauf soucie de conflit à cause de modification dans le main.</description>
+      <guid>http://localhost:40483/posts/journal-de-stage-1/</guid>
+      <description>Travail Réalisé : Link to heading Travaillé sur le site alixir :&#xA;Bug de disposition de la page rendez-vous&#xA;Problème : Trouvé la source exacte du problème&#xA;Résolution simple (passé le pudding left et right à-25 dans la classe problématique)&#xA;Bot roll&#xA;mis en place dans le serveur Et sur un repo de alixir&#xA;Contrôle visuel de resize layout&#xA;Contrôle OK sauf soucie de conflit à cause de modification dans le main.</description>
     </item>
   </channel>
 </rss>
